@@ -2,7 +2,9 @@
 http://arxiv.org/pdf/1501.05759v1
 
 Implemented with C++ and yields similar performance in INRIA dataset but not in CALTECH dataset
+
 Boosted Decision Tree used
+
 CHECKBOARD feature used
 
 TODO:
