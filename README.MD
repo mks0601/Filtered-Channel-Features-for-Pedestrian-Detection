@@ -1,4 +1,4 @@
-#Filtered Channel Feature for Pedestrian Detection
+# Filtered Channel Feature for Pedestrian Detection
 http://arxiv.org/pdf/1501.05759v1
 
 Implemented with C++ and yields similar performance in INRIA dataset but not in CALTECH dataset
@@ -10,7 +10,7 @@ CHECKBOARD feature used
 TODO:
 improve CALTECH dataset version
 
-##Result(INRIA. green: GT, blue: detected pedestrian)
+## Result(INRIA. green: GT, blue: detected pedestrian)
 ![acf](https://cloud.githubusercontent.com/assets/13601723/15353232/f3f1094e-1d22-11e6-9ef5-661165ab0697.png)
 
 ![172](https://cloud.githubusercontent.com/assets/13601723/15353299/60123efe-1d23-11e6-9ce4-1897d8c60ad5.jpg)
